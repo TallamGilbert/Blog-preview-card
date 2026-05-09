@@ -25,8 +25,8 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://github.com/TallamGilbert/Blog-preview-card)
+- Live Site URL: [Live site](https://blog-preview-card-six-rho.vercel.app/)
 
 ---
 
@@ -81,5 +81,4 @@ I want to keep focusing on:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@TallamGilbert](https://www.frontendmentor.io/profile/TallamGilbert)
